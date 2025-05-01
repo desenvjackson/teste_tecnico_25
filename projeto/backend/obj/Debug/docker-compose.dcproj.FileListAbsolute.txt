@@ -1,0 +1,2 @@
+/Users/alasmoreno/projects/teste_tecnico_25/src/backend/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/alasmoreno/projects/teste_tecnico_25/projeto/backend/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
