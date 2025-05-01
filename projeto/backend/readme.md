@@ -11,9 +11,8 @@
 
 1. Clone o repositório:
 
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
-
+   git clone [<URL_DO_REPOSITORIO>](https://github.com/desenvjackson/teste_tecnico_25)
+ 
 2. Navegue até o diretório do backend:
 
    cd src/backend
